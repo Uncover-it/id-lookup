@@ -5,7 +5,7 @@
       "name": "id-lookup",
       "dependencies": {
         "@next/third-parties": "^15.5.3",
-        "botid": "^1.5.5",
+        "botid": "^1.5.6",
         "class-variance-authority": "^0.7.1",
         "clsx": "^2.1.1",
         "lucide-react": "^0.541.0",
@@ -476,7 +476,7 @@
 
     "balanced-match": ["balanced-match@1.0.2", "", {}, "sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw=="],
 
-    "botid": ["botid@1.5.5", "", { "peerDependencies": { "next": "*", "react": "^18.0.0 || ^19.0.0" }, "optionalPeers": ["next", "react"] }, "sha512-c2XfkgBGJBS7WUvxipPtaVIA7q2cNv1DVyezIV8l5tXsA14SIqrDxbAvTtJXNoDyY6vthH3BoIsTR1fU7+IAcg=="],
+    "botid": ["botid@1.5.6", "", { "peerDependencies": { "next": "*", "react": "^18.0.0 || ^19.0.0" }, "optionalPeers": ["next", "react"] }, "sha512-KElecPjc1z6WJ6sCJMw6CvLo/CQclwlLJdobqmtOjVqvCXZZmaWvNafVDwBk0Kf5ordIaorDa3YkIx2OlGx7pg=="],
 
     "brace-expansion": ["brace-expansion@1.1.12", "", { "dependencies": { "balanced-match": "^1.0.0", "concat-map": "0.0.1" } }, "sha512-9T9UjW3r0UW5c1Q7GTwllptXwhvYmEzFhzMfZ9H7FQWt+uZePjZPjBP/W1ZEyZ1twGWom5/56TF4lPcqjnDHcg=="],
 
